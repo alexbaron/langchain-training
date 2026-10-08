@@ -12,10 +12,22 @@ Objectifs :
 
 Stack :
 
-- (tauri)
+- (Tauri)
 - FastAPI
 - LangChain
 - LangGraph
 - Ollama
 - Qwen3
 - ChromaDB
+
+## Progression
+
+- [x] Tauri (obsidian parser)
+- [x] FastAPI
+- [x] Connexion Ollama
+- [ ] Prompt Templates
+- [ ] RAG
+- [ ] ChromaDB
+- [ ] Tool Calling
+- [ ] Agents
+- [ ] LangGraph
