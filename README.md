@@ -34,5 +34,6 @@ Stack :
 
 ## Architecture
 
-<img width="1935" height="2268" alt="image" src="https://github.com/user-attachments/assets/5e06e944-d2df-4444-82a0-7dece80dfdce" />
-
+<img width="1935" height="2268" alt="image"
+src="https://github.com/user-attachments/assets/5e06e944-d2df-4444-82a0-7dece80dfdce"
+/>
